@@ -1,0 +1,15 @@
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\arraysObjetos01\bin\Debug\net6.0\arraysObjetos01.exe
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\arraysObjetos01\bin\Debug\net6.0\arraysObjetos01.deps.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\arraysObjetos01\bin\Debug\net6.0\arraysObjetos01.runtimeconfig.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\arraysObjetos01\bin\Debug\net6.0\arraysObjetos01.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\arraysObjetos01\bin\Debug\net6.0\arraysObjetos01.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\arraysObjetos01\obj\Debug\net6.0\arraysObjetos01.csproj.AssemblyReference.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\arraysObjetos01\obj\Debug\net6.0\arraysObjetos01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\arraysObjetos01\obj\Debug\net6.0\arraysObjetos01.AssemblyInfoInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\arraysObjetos01\obj\Debug\net6.0\arraysObjetos01.AssemblyInfo.cs
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\arraysObjetos01\obj\Debug\net6.0\arraysObjetos01.csproj.CoreCompileInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\arraysObjetos01\obj\Debug\net6.0\arraysObjetos01.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\arraysObjetos01\obj\Debug\net6.0\refint\arraysObjetos01.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\arraysObjetos01\obj\Debug\net6.0\arraysObjetos01.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\arraysObjetos01\obj\Debug\net6.0\arraysObjetos01.genruntimeconfig.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\arraysObjetos01\obj\Debug\net6.0\ref\arraysObjetos01.dll
